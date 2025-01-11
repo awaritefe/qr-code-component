@@ -15,7 +15,7 @@ section {
   padding: 16px 16px 40px 16px;
   margin: auto;
   max-height: max-content;
-  max-width: 274px;
+  width: 274px;
 }
 
 .qr-content {
